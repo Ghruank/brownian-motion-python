@@ -32,7 +32,7 @@ This project simulates the random motion of a robot in a 2D arena using Brownian
 
 Below is an example video demonstrating the simulation:
 
-![Example Video](example.mp4)
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://github.com/ghruank/brownian-motion-python/blob/main/example.mp4)
 
 ## YouTube Link
 
